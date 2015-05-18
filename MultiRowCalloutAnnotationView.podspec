@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.summary  = 'Multi-row Annotation Callout for MapKit.'
   s.homepage = 'https://github.com/grgcombs/MultiRowCalloutAnnotationView'
   s.author   = { 'Greg Combs' => 'gcombs@gmail.com' }
-  s.source   = { :git => 'https://github.com/pbtura/MultiRowCalloutAnnotationView', :tag=> '0.1}
+  s.source   = { :git => 'https://github.com/pbtura/MultiRowCalloutAnnotationView', :tag=> 'v0.1}
   s.description = 'Multi-row Annotation Callout for MapKit.'
   s.source_files = 'MultiRowCalloutAnnotationView/*.{h,m}'
   s.requires_arc =  true
